@@ -22,7 +22,7 @@ npm install diet-ect
 Please note the new `v1.0.x` only works with diet `>=v0.9.17`
 
 ## **ECT**:
-You can learn to use ECT quickly with the `Quick Syntax Guide` below or in more detail on ECT's websites. Please note `diet-ect` by  default uses differnt open and curly braces `{{` and `}}`, while ECT by default uses uses `<%` and `%>`.
+You can learn to use ECT quickly with the `Quick Syntax Guide` below or in more detail on ECT's websites. Please note `diet-ect` by  default uses different open and curly braces `{{` and `}}`, while ECT by default uses uses `<%` and `%>`.
 
 - **Website:** http://ectjs.com/
 - **Github:** https://github.com/baryshev/ect
